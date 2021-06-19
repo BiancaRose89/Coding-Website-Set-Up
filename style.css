@@ -1,0 +1,134 @@
+h1,
+h3,
+h4,
+h5 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h2 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.container {
+  width: 800px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.bar {
+  width: 600px;
+  padding: 30px 0;
+}
+
+.navbar-light .navbar-brand {
+  color: white;
+}
+
+.navbar-light .navbar-toggler {
+  color: white;
+  border-color: white;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show > .nav-link {
+  color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+
+.first-block {
+  text-align: center;
+  margin-top: 10px;
+  padding: 40px;
+}
+
+.first-block a {
+  text-decoration: none;
+  padding: 20px;
+  color: black;
+}
+
+.first-block a:hover {
+  color: gold;
+}
+
+.second-block {
+  background: url("./images/ComputerBackground.jpg") no-repeat;
+  padding: 50px;
+}
+
+.second-block .how {
+  background: rgba(71, 68, 68);
+  color: white;
+  opacity: 0.9;
+  border-radius: 1%;
+  padding: 20px 40px;
+  width: 720px;
+  margin: 0 auto;
+}
+
+.second-block .how a {
+  color: white;
+}
+
+.second-block .how a:hover {
+  color: gold;
+}
+
+.sentence {
+  color: blanchedalmond;
+}
+
+img {
+  border-style: none;
+  width: 100%;
+  margin-top: 10px;
+}
+
+div.col-6.goldball {
+  margin: 20px 0 0 0;
+}
+
+div.col-6.goldball-paragraph {
+  font-size: 12px;
+  width: 48%;
+  margin: 24px 0 0 0;
+}
+
+footer {
+  background: rgba(71, 68, 68);
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+  color: white;
+}
+
+footer a:hover {
+  color: gold;
+}
+
+.copyright {
+  margin-top: 10px;
+}
+
+div.top-about {
+  text-align: center;
+}
+
+h1.about {
+  margin: 0;
+  padding: 40px;
+  color: black;
+  background: blanchedalmond;
+  text-align: center;
+}
+
+div.about-me {
+  padding: 160px 0;
+}
